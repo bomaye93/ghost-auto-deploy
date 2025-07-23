@@ -48,7 +48,7 @@ ghost-auto-deploy/
 ## 🚀 Déploiement automatique
 
 ```bash
-git clone https://github.com/tonpseudo/ghost-auto-deploy.git
+git clone https://github.com/bomaye93/ghost-auto-deploy.git
 cd ghost-auto-deploy
 chmod +x deploy_ghost.sh
 ./deploy_ghost.sh
@@ -105,7 +105,7 @@ docker exec -i ghost-db   mysql -u ghost -pghostpass ghost < backups/ghost_backu
 
 ## 🧑‍💻 Auteur
 
-Projet réalisé par [@tonpseudo](https://github.com/tonpseudo) pour apprendre à déployer des services de manière propre, versionnée, et automatisée.
+Projet réalisé par [@bomaye93](https://github.com/bomaye93) pour apprendre à déployer des services de manière propre, versionnée, et automatisée.
 
 ---
 
